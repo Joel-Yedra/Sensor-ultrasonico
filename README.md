@@ -11,8 +11,8 @@ This project consists of a simple reverse alarm system built using Arduino and a
 
 ## 🧰 Components Used
 
- -Arduino UNO
- -LED
+ - Arduino UNO
+ - LED
 
 ## 🎯 Objective
 
