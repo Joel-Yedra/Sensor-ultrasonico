@@ -73,12 +73,4 @@ The goal of this project is to replicate the behavior of a car’s reverse alarm
     delay(distancia*10);
       
   }
-
-   
-7. 
-
-
-
-
-
-
+```
