@@ -11,9 +11,13 @@ This project consists of a simple reverse alarm system built using Arduino and a
 
 ## 🧰 Components Used
 
- - Arduino UNO
- - LED
-
+- Arduino UNO board
+- HC-SR04 Ultrasonic sensor
+- Red LED
+- Buzzer
+- 220 Ohm resistor
+- Jumper wires and breadboard
+  
 ## 🎯 Objective
 
 The goal of this project is to replicate the behavior of a car’s reverse alarm system using a low-cost and easy-to-build Arduino circuit. It aims to visually and audibly alert the user when an object is too close, providing a functional prototype for learning and experimentation.
