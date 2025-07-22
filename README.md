@@ -18,4 +18,8 @@ This project consists of a simple reverse alarm system built using Arduino and a
 -220 Ohm resistor
 -Jumper wires and breadboard
 
+#🎯 Objective
+
+The goal of this project is to replicate the behavior of a car’s reverse alarm system using a low-cost and easy-to-build Arduino circuit. It aims to visually and audibly alert the user when an object is too close, providing a functional prototype for learning and experimentation.
+
 
