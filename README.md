@@ -11,12 +11,12 @@ This project consists of a simple reverse alarm system built using Arduino and a
 
 # 🧰 Components Used
 
--Arduino UNO board
--HC-SR04 Ultrasonic sensor
--Red LED
--Buzzer
--220 Ohm resistor
--Jumper wires and breadboard
+  -Arduino UNO board
+  -HC-SR04 Ultrasonic sensor
+  -Red LED
+  -Buzzer
+  -220 Ohm resistor
+  -Jumper wires and breadboard
 
 # 🎯 Objective
 
