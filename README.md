@@ -4,10 +4,10 @@ This project consists of a simple reverse alarm system built using Arduino and a
 
 ## 🔧 How does it work?
 
--An ultrasonic sensor measures the distance between itself and a nearby object.
--The shorter the distance, the faster the system responds.
--A red LED and a buzzer are activated to simulate an alarm.
--As the object gets closer, the LED and buzzer blink more rapidly to indicate danger.
+1. An ultrasonic sensor measures the distance between itself and a nearby object.
+2. The shorter the distance, the faster the system responds.
+3. A red LED and a buzzer are activated to simulate an alarm.
+4. As the object gets closer, the LED and buzzer blink more rapidly to indicate danger.
 
 ## 🧰 Components Used
 
